@@ -1,0 +1,8 @@
+[package]
+name = "text_diff"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+console = "0.15.10"
+similar = { version = "2.7.0", features = ["unicode", "inline"] }
