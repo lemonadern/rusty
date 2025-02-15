@@ -1,0 +1,6 @@
+[package]
+name = "get_panic_info"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
