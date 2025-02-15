@@ -1,0 +1,6 @@
+[package]
+name = "drop"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
