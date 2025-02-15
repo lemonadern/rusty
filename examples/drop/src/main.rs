@@ -1,7 +1,7 @@
 ///
 /// The Rust Programming Language 15.3 Drop
 /// https://doc.rust-jp.rs/book-ja/ch15-03-drop.html
-/// 
+///
 
 struct CustomSmartPointer {
     data: String,
